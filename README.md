@@ -1,4 +1,4 @@
-### 👋 it's me on github
+👋 it's me on github
 
 <!--
 - 🔭 I’m currently working on ...
