@@ -1,5 +1,7 @@
 👋 it's me on github
 
+![foreshadowing](https://user-images.githubusercontent.com/1372946/121296300-43f1a100-c8a5-11eb-996f-979998361393.jpeg)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
