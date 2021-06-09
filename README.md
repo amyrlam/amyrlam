@@ -1,6 +1,6 @@
 👋 it's me on github
 
-![foreshadowing](https://user-images.githubusercontent.com/1372946/121296300-43f1a100-c8a5-11eb-996f-979998361393.jpeg)
+<img src="foreshadowing.jpeg" width="50%" height="50%" />
 
 <!--
 - 🔭 I’m currently working on ...
