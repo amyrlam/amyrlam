@@ -1,6 +1,6 @@
 👋 it's me on github
 
-<img src="foreshadowing.jpeg" width="50%" height="50%" />
+<img src="foreshadowing.jpeg" width="30%" height="30%" class="zoom" />
 
 <!--
 - 🔭 I’m currently working on ...
