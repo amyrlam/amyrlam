@@ -1,7 +1,8 @@
 👋 it's me on github
 
-<img src="foreshadowing.jpeg" width="60%" height="60%" />
-
+<!-- <img src="foreshadowing.jpeg" width="60%" height="60%" />
+ -->
+ 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
