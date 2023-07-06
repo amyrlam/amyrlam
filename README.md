@@ -1,4 +1,4 @@
-<img align="left" src="foreshadowing.jpeg" width="30%" height="30%" />
+<img align="left" src="foreshadowing.jpeg" width="20%" height="20%" />
 
 👋 it's me on github
 
