@@ -2,4 +2,4 @@
 
 👋 it's me on github
 
-Amy is a product-minded developer with a focus on the frontend. Throughout her career, Amy has been drawn toward problem solving around User Experience (UX) and Developer Experience (DX). When she’s not making the web a better place, Amy enjoys strolling her dog, gardening, and skiing.
+I am a product-minded developer with a focus on the frontend. Throughout my career, I've been drawn toward problem solving around User Experience (UX) and Developer Experience (DX). When I'm not making the web a better place, I enjoy strolling my dog, gardening, and skiing.
